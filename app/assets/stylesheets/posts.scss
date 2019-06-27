@@ -43,6 +43,7 @@
 }
 
 .posts-show-item {
+  color: #000000;
   padding: 30px;
   background-color: white;
   box-shadow: 0 2px 6px #c1ced7;
@@ -72,6 +73,19 @@
 .post-time {
   color: #8899a6;
   margin-bottom: 10px;
+}
+
+.like-btn {
+  color:#8899a6;
+}
+
+.like-btn-unlike {
+  color:#ff2581;
+}
+
+.posts-show-item .fa {
+  font-size: 24px;
+  margin-right: 3px;
 }
 
 .post-menus {
